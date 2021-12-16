@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://www.w3.org/2001/12/soap-envelope" SOAP-ENV:encodingStyle="http://www.w3.org/2001/12/soap-encoding" >
+	<SOAP-ENV:Body xmlns:hse="http://projects.awgm.co/hindsightevents" >
+		<hse:Event>
+			<hse:eventid>1</hse:eventid>
+			<hse:location>
+				<hse:lat>-32.21976036</hse:lat>
+				<hse:long>115.79785824</hse:long>
+			</hse:location>
+			<hse:datetimestamp>01/Jun/2021 01:32:00</hse:datetimestamp>
+			<hse:context context="Tweet">
+				<hse:data>Good Morning Sunshine</hse:data>
+			</hse:context>
+		</hse:Event>
+		<hse:Event>
+			<hse:eventid>2</hse:eventid>
+			<hse:location>
+				<hse:lat>-31.96728287</hse:lat>
+				<hse:long>115.92893859</hse:long>
+			</hse:location>
+			<hse:datetimestamp>01/Jun/2021 05:46:38</hse:datetimestamp>
+			<hse:context context="Facebook">
+				<hse:data>Pumped for some action</hse:data>
+			</hse:context>
+		</hse:Event>
+		<hse:Event>
+			<hse:eventid>3</hse:eventid>
+			<hse:location>
+				<hse:lat>-32.14609264</hse:lat>
+				<hse:long>115.8578493</hse:long>
+			</hse:location>
+			<hse:datetimestamp>01/Jun/2021 17:23:11</hse:datetimestamp>
+			<hse:context context="Pics">
+				<hse:data>Selfie with the Sun</hse:data>
+			</hse:context>
+		</hse:Event>
+		<hse:Event>
+			<hse:eventid>4</hse:eventid>
+			<hse:location>
+				<hse:lat>-32.045836</hse:lat>
+				<hse:long>115.73429171</hse:long>
+			</hse:location>
+			<hse:datetimestamp>01/Jan/2017 21:44:36</hse:datetimestamp>
+			<hse:context context="Video">
+				<hse:data>Story </hse:data>
+			</hse:context>
+		</hse:Event>
+		<hse:Event>
+			<hse:eventid>5</hse:eventid>
+			<hse:location>
+				<hse:lat>-32.05885339</hse:lat>
+				<hse:long>115.84163384</hse:long>
+			</hse:location>
+			<hse:datetimestamp>03/Jun/2021 03:24:10</hse:datetimestamp>
+			<hse:context context="Walking">
+				<hse:data>Burning those calories</hse:data>
+				<hse:data></hse:data>
+			</hse:context>
+		</hse:Event>
+		<hse:Event>
+			<hse:eventid>6</hse:eventid>
+			<hse:location>
+				<hse:lat>-32.05885339</hse:lat>
+				<hse:long>115.84163384</hse:long>
+			</hse:location>
+			<hse:datetimestamp>03/Jun/2021 15:25:45</hse:datetimestamp>
+			<hse:context context="Shopping">
+				<hse:data>Money Money Money</hse:data>
+				<hse:data></hse:data>
+			</hse:context>
+		</hse:Event>
+		<hse:Event>
+			<hse:eventid>7</hse:eventid>
+			<hse:location>
+				<hse:lat>-32.11476411</hse:lat>
+				<hse:long>115.99700751</hse:long>
+			</hse:location>
+			<hse:datetimestamp>03/Jun/2021 16:28:09</hse:datetimestamp>
+			<hse:context context="tweet">
+				<hse:data>Hate the LockDown #Pandemic</hse:data>
+			</hse:context>
+		</hse:Event>
+		<hse:Event>
+			<hse:eventid>8</hse:eventid>
+			<hse:location>
+				<hse:lat>-32.03479204</hse:lat>
+				<hse:long>115.65112868</hse:long>
+			</hse:location>
+			<hse:datetimestamp>03/Jun/2021 16:28:09</hse:datetimestamp>
+			<hse:context context="Facebook Status Update">
+				<hse:data>Feeling alone with 69 others</hse:data>
+			</hse:context>
+		</hse:Event>
+		<hse:Event>
+			<hse:eventid>9</hse:eventid>
+			<hse:location>
+				<hse:lat>-32.08410487</hse:lat>
+				<hse:long>115.74556282</hse:long>
+			</hse:location>
+			<hse:datetimestamp>04/Jun/2021 00:02:03</hse:datetimestamp>
+			<hse:context context="Instagram Status Update">
+				<hse:data>The new Ralph Lauren Clothing Line</hse:data>
+			</hse:context>
+		</hse:Event>
+		<hse:Event>
+			<hse:eventid>10</hse:eventid>
+			<hse:location>
+				<hse:lat>-31.98399392</hse:lat>
+				<hse:long>115.93728614</hse:long>
+			</hse:location>
+			<hse:datetimestamp>04/Jun/2021 03:38:21</hse:datetimestamp>
+			<hse:context context="Photo">
+				<hse:data>Selfie in new clothes</hse:data>
+			</hse:context>
+		</hse:Event>
+		<hse:Event>
+			<hse:eventid>11</hse:eventid>
+			<hse:location>
+				<hse:lat>-32.07714349</hse:lat>
+				<hse:long>115.99216954</hse:long>
+			</hse:location>
+			<hse:datetimestamp>04/Jun/2021 03:55:07</hse:datetimestamp>
+			<hse:context context="video">
+				<hse:data>Late night Snacks</hse:data>
+			</hse:context>
+		</hse:Event>
+		<hse:Event>
+			<hse:eventid>12</hse:eventid>
+			<hse:location>
+				<hse:lat>-31.9707101</hse:lat>
+				<hse:long>115.84076776</hse:long>
+			</hse:location>
+			<hse:datetimestamp>04/Jun/2021 04:46:20</hse:datetimestamp>
+			<hse:context context="Google Search">
+				<hse:data>How can I reset Android phone pasword</hse:data>
+			</hse:context>
+		</hse:Event>
+		<hse:Event>
+			<hse:eventid>13</hse:eventid>
+			<hse:location>
+				<hse:lat>-31.96177789</hse:lat>
+				<hse:long>115.76011844</hse:long>
+			</hse:location>
+			<hse:datetimestamp>04/Jun/2021 05:21:51</hse:datetimestamp>
+			<hse:context context="Instagram">
+				<hse:data>#Fashion</hse:data>
+			</hse:context>
+		</hse:Event>
+		<hse:Event>
+			<hse:eventid>14</hse:eventid>
+			<hse:location>
+				<hse:lat>-32.05858637</hse:lat>
+				<hse:long>115.74428951</hse:long>
+			</hse:location>
+			<hse:datetimestamp>04/Jun/2021 09:45:03</hse:datetimestamp>
+			<hse:context context="SnapChat">
+				<hse:data>The Food is Fuel</hse:data>
+			</hse:context>
+		</hse:Event>
+		<hse:Event>
+			<hse:eventid>15</hse:eventid>
+			<hse:location>
+				<hse:lat>-31.89693035</hse:lat>
+				<hse:long>115.84246372</hse:long>
+			</hse:location>
+			<hse:datetimestamp>04/Jun/2021 13:28:26</hse:datetimestamp>
+			<hse:context context="Car Route">
+				<hse:data>Just roaming the area</hse:data>
+				<hse:data></hse:data>
+			</hse:context>
+		</hse:Event>
+		<hse:Event>
+			<hse:eventid>16</hse:eventid>
+			<hse:location>
+				<hse:lat>-32.04828892</hse:lat>
+				<hse:long>115.96093842</hse:long>
+			</hse:location>
+			<hse:datetimestamp>04/Jun/2021 14:38:58</hse:datetimestamp>
+			<hse:context context="Tweet">
+				<hse:data>Its just to cold outside #ColdWeather</hse:data>
+			</hse:context>
+		</hse:Event>
+		<hse:Event>
+			<hse:eventid>17</hse:eventid>
+			<hse:location>
+				<hse:lat>-32.00089441</hse:lat>
+				<hse:long>115.6646535</hse:long>
+			</hse:location>
+			<hse:datetimestamp>06/Jun/2021 21:46:09</hse:datetimestamp>
+			<hse:context context="WhatsApp Status">
+				<hse:data>Family Picture</hse:data>
+			</hse:context>
+		</hse:Event>
+		<hse:Event>
+			<hse:eventid>18</hse:eventid>
+			<hse:location>
+				<hse:lat>-31.94516388</hse:lat>
+				<hse:long>115.68602317</hse:long>
+			</hse:location>
+			<hse:datetimestamp>05/Jun/2021 07:07:31</hse:datetimestamp>
+			<hse:context context="photo">
+				<hse:data>Cute Dog</hse:data>
+			</hse:context>
+		</hse:Event>
+		<hse:Event>
+			<hse:eventid>19</hse:eventid>
+			<hse:location>
+				<hse:lat>-31.98993873</hse:lat>
+				<hse:long>115.89840107</hse:long>
+			</hse:location>
+			<hse:datetimestamp>05/Jun/2021 15:10:04</hse:datetimestamp>
+			<hse:context context="Spotify">
+				<hse:data>Listening to the Previous Year rewind list</hse:data>
+			</hse:context>
+		</hse:Event>
+		<hse:Event>
+			<hse:eventid>20</hse:eventid>
+			<hse:location>
+				<hse:lat>-32.0431252</hse:lat>
+				<hse:long>115.97059014</hse:long>
+			</hse:location>
+			<hse:datetimestamp>06/Jun/2021 01:22:50</hse:datetimestamp>
+			<hse:context context="YouTube Video">
+				<hse:data>How to operate a DSLR Camera? Long Exposure</hse:data>
+			</hse:context>
+		</hse:Event>
+		<hse:Event>
+			<hse:eventid>21</hse:eventid>
+			<hse:location>
+				<hse:lat>-31.92827861</hse:lat>
+				<hse:long>115.68837196</hse:long>
+			</hse:location>
+			<hse:datetimestamp>06/Jun/2021 02:49:18</hse:datetimestamp>
+			<hse:context context="Instagram">
+				<hse:data>Chocolate PanCakes</hse:data>
+			</hse:context>
+		</hse:Event>
+	</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
